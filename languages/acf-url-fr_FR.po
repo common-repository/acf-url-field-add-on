@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jpress-archive\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-22 18:42+0300\n"
+"PO-Revision-Date: 2016-06-22 18:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: Johary Ranarimanana <johary.ranarimanana@netapsys.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;gettext;gettext_noop;_e;_n:1,2;_n_noop:1,2;_c;"
+"_nc:1,2;_ex;_nx_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: field.php:11
+msgid "URL Object"
+msgstr ""
+
+#: field.php:12
+msgid "Choice"
+msgstr ""
+
+#: field.php:195
+msgid "URL"
+msgstr ""
+
+#: field.php:200
+msgid "Internal"
+msgstr "Interne"
+
+#: field.php:201
+msgid "External"
+msgstr "Externe"
+
+#: field.php:211
+msgid "Please specify the http://"
+msgstr "Veuillez spécifier le http://"
+
+#: field.php:216
+msgid "Label"
+msgstr "Libellé"
+
+#: field.php:280
+#, fuzzy
+msgid "Post Type"
+msgstr "Type de publication"
+
+#: field.php:280
+msgid "(Internal link)"
+msgstr "(Lien interne)"
+
+#: field.php:285 field.php:309
+msgid "All"
+msgstr ""
+
+#: field.php:303
+msgid "Filter from Taxonomy"
+msgstr ""
+
+#: field.php:329
+msgid "Allow Null?"
+msgstr ""
+
+#: field.php:339
+msgid "Yes"
+msgstr "Oui"
+
+#: field.php:340
+msgid "No"
+msgstr "Non"
+
+#~ msgid "Archived"
+#~ msgstr "Archivé"
+
+#~ msgid "Archived <span class=\"count\">(%s)</span>"
+#~ msgid_plural "Archived <span class=\"count\">(%s)</span>"
+#~ msgstr[0] "Archivé <span class=\"count\">(%s)</span>"
+#~ msgstr[1] "Archivé <span class=\"count\">(%s)</span>"
+
+#~ msgid "Move to archive"
+#~ msgstr "Déplacer dans les archives"
+
+#~ msgid "Archive"
+#~ msgstr "Archiver"
+
+#~ msgid "Restore"
+#~ msgstr "Restaurer"
+
+#~ msgid "No post to archive !"
+#~ msgstr "Aucun post à archiver !"
+
+#~ msgid "Sorry, no ID specified."
+#~ msgstr "Désolé, aucun ID spécifié."
+
+#~ msgid "No post to restore !"
+#~ msgstr "Aucun post à restaurer !"
+
+#~ msgid "The item was moved to the archives."
+#~ msgid_plural "%s items were moved to the archives."
+#~ msgstr[0] "L'élément a été déplacé dans les archives."
+#~ msgstr[1] "%s éléments ont été déplacé dans les archives."
+
+#~ msgid "The item has been restored : %2$s."
+#~ msgid_plural "%1$s items were restored : %2$s."
+#~ msgstr[0] "L'élément a été restauré  : %2$s."
+#~ msgstr[1] "%1$s éléments ont été restauré : %2$s."
+
+#~ msgid "Settings"
+#~ msgstr "Configuration"
+
+#~ msgid "General Archive Settings"
+#~ msgstr "Configuration générale de l'archivage"
+
+#~ msgid "Front End visibility"
+#~ msgstr "Visibilité sur le front office"
+
+#~ msgid "Back End visibility"
+#~ msgstr "Visibilité dans l'interface d'administration"
+
+#~ msgid "Purge"
+#~ msgstr "Purge"
+
+#~ msgid "Purge Settings"
+#~ msgstr "Configuration du purge"
+
+#~ msgid "Delete automaticaly items older than"
+#~ msgstr "Supprimer automatiquement les éléments datant de"
+
+#~ msgid "Items to delete"
+#~ msgstr "Eléments à supprimer"
+
+#~ msgid "Show archived post in front end"
+#~ msgstr "Afficher les archives sur le front office"
+
+#~ msgid ""
+#~ "Show archived post in default admin list view (without filtering post "
+#~ "status)"
+#~ msgstr ""
+#~ "Afficher les archives dans la page de liste par défaut (sans filtrage par "
+#~ "status)"
+
+#~ msgid "year"
+#~ msgid_plural "years"
+#~ msgstr[0] "an"
+#~ msgstr[1] "ans"
+
+#~ msgid "month"
+#~ msgid_plural "months"
+#~ msgstr[0] "mois"
+#~ msgstr[1] "mois"
+
+#~ msgid "Archives manager"
+#~ msgstr "Gestion des archives"
+
+#~ msgid "Archives center"
+#~ msgstr "Archives"
+
+#~ msgid "As monthly archive of your site&#8217;s Posts."
+#~ msgstr "Archive mensuel des contenus de votre site."
+
+#~ msgid "jPress Archives"
+#~ msgstr "jPress Archives"
+
+#~ msgid "Public"
+#~ msgstr "Visibilité"
+
+#~ msgid "Admin default list"
+#~ msgstr "Liste par défaut"
+
+#~ msgid "Sorry, no ID specified"
+#~ msgstr "Désolé, aucun ID spécifié"
